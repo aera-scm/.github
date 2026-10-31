@@ -2,7 +2,7 @@
 
 **Autonomous Exception Resolution Agent** — agentic AI for supply chain exception handling on AWS and SAP.
 
-🏆 **1st place — AWS / SAP Agentic AI Hackathon, Asia Pacific 2026** (Intelligent Supply Chain track) · 640 teams → 40 finalist teams → 1 winning team
+🏆 **1st place — AWS / SAP Agentic AI Hackathon, Asia Pacific 2026** (Intelligent Supply Chain track) · 640 teams → 40 finalist teams → 1 winning team · hosted by AWS, SAP, APP and Sokrates BINUS
 
 A supply chain exception rarely arrives as clean data. It arrives as a supplier email, a PDF confirmation, a photo on WhatsApp, a carrier notice. The authority to fix it, meanwhile, lives inside the ERP. AERA closes that gap: it reads the raw signal, grounds every figure in SAP, works out who is affected and how much is at risk, proposes options, and writes the correction back — automatically when the action is small and reversible, with a named approver when it is not. The language model proposes; deterministic code verifies, routes and writes.
 
